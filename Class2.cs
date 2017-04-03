@@ -7,7 +7,6 @@ public class Class1
 {
 	public Class1()
 	{
-
         int len = 5;
 
         Console.WriteLine("hello earth");
